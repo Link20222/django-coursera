@@ -16,7 +16,7 @@ cd dj4e-samples
 pip install -r requirements.txt 
 ```
 ### Week 3 - Html
-[Html Cheatsheeet](https://github.com/Rustam-Z/django-coursera/blob/master/HTML_CHEAT_SHEET_PNG.png)
+[Html Cheatsheet](https://github.com/Rustam-Z/django-coursera/blob/master/HTML_CHEAT_SHEET_PNG.png)
 ### Wekk 4 - CSS
 [CSS Cheatsheet](http://www.lesliefranke.com/files/reference/csscheatsheet.html)
 ### Week 5 - Database Handout - Command line SQLite
