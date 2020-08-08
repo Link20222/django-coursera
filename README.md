@@ -15,7 +15,9 @@ git clone https://github.com/csev/dj4e-samples
 cd dj4e-samples
 pip install -r requirements.txt 
 ```
-- Database Handout - Command line SQLite
+### Week 3 - Html
+### Wekk 4 - CSS
+### Week 5 - Database Handout - Command line SQLite
 - https://www.dj4e.com/lectures/SQL-01-Basics.txt
 - Start the command line in a Linux/Bash shell:
 ``` bash
@@ -38,3 +40,4 @@ SELECT * FROM Users ORDER BY name DESC;
 # If you want: DROP TABLE Users 
 .quit
 ```
+
