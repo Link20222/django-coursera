@@ -8,10 +8,10 @@
 3. git clone https://github.com/csev/dj4e-samples
 4. cd dj4e-samples
 5. pip install -r requirements.txt 
-6. Database Handout - Command line SQLite
- - https://www.dj4e.com/lectures/SQL-01-Basics.txt
- - Start the command line in a Linux/Bash shell:
- - sqlite3 zip.sqlite3
+> 6. Database Handout - Command line SQLite
+>> - https://www.dj4e.com/lectures/SQL-01-Basics.txt
+>> - Start the command line in a Linux/Bash shell:
+>>- sqlite3 zip.sqlite3
  - Exit with ".quit", statements end with a semicolon.
  - .mode column
  - CREATE TABLE "Users" (
