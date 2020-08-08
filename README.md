@@ -1,6 +1,7 @@
 # Django for Everybody
 # COURSE 1
-## PythonAnywhere: - https://help.pythonanywhere.com/pages/FollowingTheDjangoTutorial/
+## PythonAnywhere: 
+- https://help.pythonanywhere.com/pages/FollowingTheDjangoTutorial/
 - https://www.dj4e.com/assn/dj4e_install.md
 1. mkvirtualenv my_env --python=/usr/bin/python3.8
 2. pip install django
