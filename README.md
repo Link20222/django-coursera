@@ -16,7 +16,9 @@ cd dj4e-samples
 pip install -r requirements.txt 
 ```
 ### Week 3 - Html
+
 ### Wekk 4 - CSS
+[CSS Cheatsheet](http://www.lesliefranke.com/files/reference/csscheatsheet.html)
 ### Week 5 - Database Handout - Command line SQLite
 - https://www.dj4e.com/lectures/SQL-01-Basics.txt
 - Start the command line in a Linux/Bash shell:
