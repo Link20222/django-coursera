@@ -1,4 +1,4 @@
-# Django for Everybody
+# Django for Everybody Specialization 
 # COURSE 1
 ### Week 1
 - About Web sockets, Http, how the servers are working
