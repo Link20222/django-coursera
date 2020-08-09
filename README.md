@@ -42,4 +42,18 @@ SELECT * FROM Users ORDER BY name DESC;
 # If you want: DROP TABLE Users 
 .quit
 ```
+# COURSE 1
+### Week 1 & 2
+- Go to slides/course_2 
+- MVC (Model-View-Controller) = MTV(Model-Template-View)
+- ORM (Object Relational Mapper) 'models.py', it is easier to write the ORM then SQL code, u may have many DB
+- Views
+- Templates & Templates engine & Templates inheratance 
+- Urls - URL mapping and reversing
+- [Template tags and build-in filters](https://docs.djangoproject.com/en/3.0/ref/templates/builtins) 
+- {% load foo bar from somelib%} -> csrf_token, block, url, include, extend, lorem, now, cycle, spaceless, or, and, not, in, for, if, endfor, endif
+- {{value|lorem}} -> get_static_prefix, urlize, slugify, pluralize, wordcount, upper, lower, unordered_list, truncatewords, truncatechars, title (upper the first letter), capfirst, timeuntil, timesince, time, ljust, cetner, rjust, length, length_is, last, cut, add, 
 
+
+
+  
