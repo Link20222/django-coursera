@@ -1,4 +1,5 @@
 # Django for Everybody Specialization 
+## [The main Django App](https://github.com/Rustam-Z/django-polls)
 # COURSE 1
 ### Week 1
 - About Web sockets, Http, how the servers are working
