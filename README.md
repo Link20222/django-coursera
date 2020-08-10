@@ -53,7 +53,16 @@ SELECT * FROM Users ORDER BY name DESC;
 - [Template tags and build-in filters](https://docs.djangoproject.com/en/3.0/ref/templates/builtins) 
 - {% load foo bar from somelib%} -> csrf_token, block, url, include, extend, lorem, now, cycle, spaceless, or, and, not, in, for, if, endfor, endif
 - {{value|lorem}} -> get_static_prefix, urlize, slugify, pluralize, wordcount, upper, lower, unordered_list, truncatewords, truncatechars, title (upper the first letter), capfirst, timeuntil, timesince, time, ljust, cetner, rjust, length, length_is, last, cut, add, 
-### Week 3 OOP in Python
 
+### Week 3 
+- OOP in Python
+- [OOP concepts](https://www.py4e.com/html3/14-objects) 
+- [Generic Display Views](https://docs.djangoproject.com/en/3.0/ref/class-based-views/generic-display/)
+- ListView and DetailView
 
-  
+### Week 4 
+- Forms, GET, POST, and HTTP
+- GET for reading
+- POSt for (saving, editing, deleting)
+- CSRF Token (Cross site request forgery)
+- Tip: Use {% 'csrf' token %} with POST, + use redirect
