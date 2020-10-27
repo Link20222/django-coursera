@@ -1,5 +1,5 @@
 # Django for Everybody Specialization 
-> The main [Polls Django App](https://github.com/EightSoft-Academy/django-polls)
+> The main [Polls Django App](https://github.com/Rustam-Z/django-coursera/django-polls)
 
 ## My accomplishments
 <img src="certificates/1.jpg" width=600>
