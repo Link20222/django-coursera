@@ -1,8 +1,9 @@
 # Django for Everybody Specialization 
+> The main [Polls Django App](https://github.com/EightSoft-Academy/django-polls)
 
 ## My accomplishments
-- <img src="certificates/1.jpg" width=600>
-- <img src="certificates/2.jpg" width=600>
+<img src="certificates/1.jpg" width=600>
+<img src="certificates/2.jpg" width=600>
 
 ## COURSE 1
 ### Week 1
