@@ -1,6 +1,10 @@
 # Django for Everybody Specialization 
-### [The main Django App](https://github.com/Rustam-Z/django-polls)
-# COURSE 1
+
+## My accomplishments
+- <img src="certificates/1.jpg width=600">
+- <img src="certificates/2.jpg width=600">
+
+## COURSE 1
 ### Week 1
 - About Web sockets, Http, how the servers are working
 - Building own broswer, server, web client in Python 
@@ -43,7 +47,7 @@ SELECT * FROM Users ORDER BY name DESC;
 # If you want: DROP TABLE Users 
 .quit
 ```
-# COURSE 2
+## COURSE 2
 ### Week 1 & 2
 - Go to slides/course_2 
 - MVC (Model-View-Controller) = MTV(Model-Template-View)
